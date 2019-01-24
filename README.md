@@ -50,8 +50,8 @@ POC Steps (Project name: - ConsoleAppNLPStanford)
 
 #### Technology/Tools used
    -	.Net Framework 4.6.1
-   -	Twitter API
-   -	SimpleNetNlp library
+   -	Twitter API (TWEETINVIAPI NUGET) [need developer account on tweeter]
+   -	SimpleNetNlp NUGET
 
 
 ### POC 2 - Real time Sentiment Analysis sample Using VADER Library
@@ -62,9 +62,9 @@ For this sample also created twitter account as above steps and analyzed the twe
 Project name:- ConsoleAppNLPVADERSampleNetCore
 
 #### Technology/Tools used
--	.Net Core 4.6.1
--	Twitter API
--	VADER library
+-	.Net Core 2.2
+-	Twitter API (TWEETINVIAPI NUGET) [need developer account on tweeter]
+-	VADER NUGET
 
 ### POC 3 - Real time Sentiment Analysis sample using Google Cloud NLP API
 
@@ -85,14 +85,14 @@ POC is done only for sentiment analysis. Steps are as below
 1.	Need to use Google cloud shell and enable NLP API
 2.	Authenticate API request
 3.	 install the Google Cloud client library for C#
-4.	can perform Sentiment Analysis – 
+4.	can perform Sentiment Analysis 
 5.	can perform Entity Analysis
 6.	can perform Syntax Analysis
 
 #### Technology/Tools used
--	.Net Framework 4.6.1
--	Twitter API
--	VADER library
+-	.Net Core 2.2
+-	Twitter API (TWEETINVIAPI NUGET) [need developer account on tweeter]
+-	Google.Cloud.Language.V1 [ need developer account on google cloud]
 
 ### Reference Links
 http://luisquintanilla.me/2018/01/18/real-time-sentiment-analysis-csharp/ 
