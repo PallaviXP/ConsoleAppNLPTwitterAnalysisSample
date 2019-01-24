@@ -1,7 +1,9 @@
 # ConsoleAppNLPTwitterAnalysisSample
-NLP sample for sentiment analysis using SimpleNetNLP, VADER library and google cloud api for NLP
+## NLP sample for sentiment analysis using SimpleNetNLP, VADER library and google cloud api for NLP
 
-Introduction
+### Demo:- https://www.youtube.com/watch?v=cmPxD9tt0y0&t=1s 
+
+### Introduction
 If you want to understand people, especially your customers…then you have to be able to possess a strong capability to analyze text. 
  
 Natural language processing (NLP) is the ability of a computer program to understand human language as it is spoken. NLP is a component of artificial intelligence. 
@@ -18,7 +20,7 @@ E.g. inspects the given information for entities by searching for proper nouns s
 6.	Use free text, interpret it and make it analyzable 
 
 
-#POC 1 – Real time Sentiment Analysis sample Using SimpleNetNlp Library
+### POC 1 – Real time Sentiment Analysis sample Using SimpleNetNlp Library
 
 Introduction of SimpleNetNlp
 SimpleNetNlp is based on Simple CoreNLP that provides a simple API for users who do not need a lot of customization. SimpleNetNLP is c# wrapper for Stannford Core NLP. 
@@ -51,7 +53,7 @@ Technology/Tools used
 •	SimpleNetNlp library
 
 
-#POC 2 - Real time Sentiment Analysis sample Using VADER Library
+### POC 2 - Real time Sentiment Analysis sample Using VADER Library
 Introduction of VADER
 VADER (Valence Aware Dictionary and sEntiment Reasoner) is a lexicon and rule-based sentiment analysis tool that is specifically attuned to sentiments expressed in social media. It is fully open-sourced under the [MIT License].
 Dependency :- CodingUpAStorm.VaderSharp
@@ -62,7 +64,7 @@ Technology/Tools used
 •	Twitter API
 •	VADER library
 
-#POC 3 - Real time Sentiment Analysis sample using Google Cloud NLP API
+### POC 3 - Real time Sentiment Analysis sample using Google Cloud NLP API
 
 Introduction
 NLP google cloud API provides below services.
@@ -86,7 +88,7 @@ Technology/Tools used
 •	Twitter API
 •	VADER library
 
-#Reference Links
+### Reference Links
 http://luisquintanilla.me/2018/01/18/real-time-sentiment-analysis-csharp/ 
 
 https://github.com/cjhutto/vaderSentiment 
